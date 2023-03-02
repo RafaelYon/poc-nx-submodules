@@ -1,0 +1,4 @@
+[submodule "apps/host"]
+	path = apps/host
+	url = git@github.com:andersoncontreira/poc-nx-submodules-apps-host.git
+	branch = main
